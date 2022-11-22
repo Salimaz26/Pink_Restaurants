@@ -23,6 +23,7 @@ li{
     border: solid black;
     justify-content: center;
     justify-content: space-around;
+    list-style-type: none;
 }
 
 h1{
